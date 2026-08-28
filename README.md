@@ -1,4 +1,5 @@
 > 本仓库为《诺理理论》v1.0 正式版（AI-Theory v1.0），对外正式发布；工程闭环当前处于半可运行状态。
+> 英文版 / English: [README_EN.md](./README_EN.md) ｜ 理论正文（英文）/ Theory (EN): [AI-Theory_v1.0_EN.md](./AI-Theory_v1.0_EN.md)
 
 # 人-AI 共治治理控制塔（AI Governance Control Tower）
 
