@@ -1,7 +1,7 @@
 {
   "schema": "ai-manifest/v1",
   "repository": "zhaoxinghua09-cell/Nomos",
-  "role": "规范/投稿仓：加 .well-known/ai.json + README 首屏窄声明",
+  "role": "Method repo: governance and rule-oriented work of the SynomosAI line, turning governance prose into checkable rules.",
   "what_it_is": "Nomos - governance and rule-oriented work of the SynomosAI line; turning governance principles into operational instruments.",
   "what_it_is_not": "Not a running commercial service. Not a third-party certification, compliance finding, or regulatory approval.",
   "reproduce": "See the README section \"运行测试 / Running the tests\"; commands are verbatim and require no private network.",
